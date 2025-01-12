@@ -8,7 +8,9 @@ This repository contains my personal notes and resources on OSINT (Open Source I
 ---
 
 ## Images
-First of all do image reverse search using google lens.
+Define your purpose with the image.  
+Whether you want to find the location of a place or product or person.   
+First of all do image reverse search using [google lens](https://images.google.com/).  
 [Yandex](https://yandex.com/images/) is a very good alternative. It comes with features like Similar images, sites and color search.
 
 
