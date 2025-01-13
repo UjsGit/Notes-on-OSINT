@@ -7,11 +7,24 @@
 This repository contains my personal notes and resources on OSINT (Open Source Intelligence). 
 ---
 
-## Images
-Define your purpose with the image.  
-Whether you want to find the location of a place or product or person.   
-First of all do image reverse search using [google lens](https://images.google.com/).  
-[Yandex](https://yandex.com/images/) is a very good alternative. It comes with features like Similar images, sites and color search.
+## 📷 Images
+•Define your purpose with the image.                                                                                                                                                                                 
+‎ ‎ ‎‎ ‎ ‎  ‎ -Whether you want to find the Location of a place or Product or Person. 
+
+•First of all do image reverse search using [google lens](https://images.google.com/).  
+
+•[Yandex](https://yandex.com/images/) is a very good alternative. It comes with features like Similar images, sites and color search. 
+
+‎•[TinEye](tineye.com) , [Bing](bing.com/images) , 
+
+•For GeoOSINT we can also use AI tools like [Geospy](Geospy.in) , [GeoGuessr](geoguessr.com) and [Picarta](Picarta.ai)  
+
+•[PimEyes](pimeyes.com) is popular for finding similar faces across internet, but it has limited features.  
+
+•For Reverse searching an image across several platforms at once use [Image Reverse Search Telegram Bot](https://t.me/reverse_image_search_bot)
+
+
+### Metadata
 
 
 
