@@ -23,6 +23,7 @@ This repository contains my personal notes and resources on OSINT (Open Source I
 
 •For Reverse searching an image across several platforms at once use [Image Reverse Search Telegram Bot](https://t.me/reverse_image_search_bot)
 
+If you already know some details, try using google's advance search in images section [like this](https://ibb.co/7y4Jq91)    
 
 ### Metadata
 
