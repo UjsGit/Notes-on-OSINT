@@ -27,6 +27,22 @@ If you already know some details, try using google's advance search in images se
 
 ### Metadata
 
+•Photos often contain EXIF data (Exchangeable Image File Format).  
+
+•[These](https://ibb.co/QphJfdZ) contains informations like Camera make, Camera model, Date/Time, Orientation, Aperature, Location etc.  
+
+•Some platforms strip out these data but these can provide a valuable info.  
+
+•Before uploading images (especially those shot on camera) you should remove EXIF data from these.  
+
+•[verexif](https://www.verexif.com/en/), [Jimpl](https://jimpl.com/remove-exif/) are few tools to strip exifdata  
+‎‎ ‎ ‎ you are just a [google search](https://www.google.com/search?q=remove+exif+data) from finding other options.
+
+•[FotoForensics](https://fotoforensics.com/) provides tools and training for digital picture analysis.  
+
+
+
+
 
 
 
