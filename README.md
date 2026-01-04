@@ -9,9 +9,13 @@ This repository contains my personal notes and resources on OSINT (Open Source I
 
 
 
+If you are starting to investigate or maybe check on someone's Social media handle, its recommended to create a personality that doesn't exist.
+And for that you should create a name and image that doesn't exist in real life using:
 
+- [FakeNameGenerator](https://www.fakenamegenerator.com/) for Name
+- [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) for AI Image
 
-
+the main Advantage is Anonymity and also the images used by this method don't come in reverse search.
 
 
 ## 📂 Table of Contents  
