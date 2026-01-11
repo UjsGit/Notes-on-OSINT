@@ -4,7 +4,9 @@
 ---
 
 ## 📖 Overview  
-This repository contains my personal notes and resources on OSINT (Open Source Intelligence). 
+This repository contains my personal notes and resources on OSINT (Open Source Intelligence)
+focused on ethical investigation, verification, and research using publicly
+available information. 
 ---
 
 
@@ -19,10 +21,11 @@ the main Advantage is Anonymity and also the images used by this method don't co
 
 
 ## 📂 Table of Contents  
-1. [Tools](#tools)  
-2. [Techniques](#techniques)  
-3. [Resources](#resources)  
-4. [Disclaimer](#disclaimer)  
+1. [Email-OSINT](email-osint.md)  
+2. [Geolocation-OSINT](geolocation-osint.md)  
+3. [Images-OSINT](images.md)  
+4. [Transportation-OSINT](Transportation-osint.md)
+5. [Google Dorking](Google-Dorking.md)
 
 ---
 
