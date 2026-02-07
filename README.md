@@ -21,11 +21,12 @@ the main Advantage is Anonymity and also the images used by this method don't co
 
 
 ## 📂 Table of Contents  
-1. [Email-OSINT](email-osint.md)  
-2. [Geolocation-OSINT](geolocation-osint.md)  
-3. [Images-OSINT](images.md)  
-4. [Transportation-OSINT](Transportation-osint.md)
-5. [Google Dorking](Google-Dorking.md)
+1. **[username-osint](username-osint.md)**
+2. **[email-osint](email-osint.md)**  
+3. **[images-osint](images.md)**  
+4. **[geolocation-osint](geolocation-osint.md)** 
+5. **[transportation-osint](Transportation-osint.md)**
+6. **[Google Dorking](Google-Dorking.md)**
 
 ---
 
