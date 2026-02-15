@@ -69,11 +69,22 @@ This notebook emphasizes:
 
   
 ---
+### 💡 Remember
+
+ ***> “Tools come and go.***    
+ ***> Methodology and mindset are what separate discovery from understanding.”***
+
+---
 
 ### 📌 Scope
 
 This notebook focuses on analyzing publicly available information
-and identifying patterns through structured reasoning.
+and identifying patterns through structured reasoning and new 
+
+OSINT is dynamic. Platforms update features, privacy settings shift,
+and new technologies emerge.
+
+This notebook will continue to evolve with new observations...
 
 
 
