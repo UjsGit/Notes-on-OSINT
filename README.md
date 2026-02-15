@@ -22,42 +22,59 @@ the main Advantage is Anonymity and also the images used by this method don't co
 
 ## 📂 Table of Contents  
 1. **[username-osint](username-osint.md)**
-2. **[email-osint](email-osint.md)**  
-3. **[images-osint](images.md)**  
-4. **[geolocation-osint](geolocation-osint.md)** 
+   
+    Cross-platform username discovery, reuse patterns, variations,
+   and correlation pitfalls.
+   
+2. **[email-osint](email-osint.md)**
+   
+   Email-based investigation techniques, exposure analysis,
+   deliverability checks, and search-based discovery.
+   
+3. **[images-osint](images.md)**
+   
+   Reverse image search, metadata analysis, AI-generated image
+   detection, and visual verification techniques.
+
+4. **[geolocation-osint](geolocation-osint.md)**
+   
+    Location identification using satellite imagery, Street View,
+    terrain comparison, and spatial reasoning.
+   
 5. **[transportation-osint](Transportation-osint.md)**
-6. **[Google Dorking](Google-Dorking.md)**
+    
+    Publicly available movement data, transport-based OSINT,
+    and domain-specific investigative resources.
+
+    
+6. **[socialmedia-osint](socialmedia-osint.md)**
+    
+    Profile structure analysis, behavioral patterns, interaction
+    mapping, cross-platform linking, and historical content retrieval.
+
+7. **[Google Dorking](Google-Dorking.md)**
+    
+    Advanced search operator usage for refining queries and
+    discovering indexed information efficiently.
 
 ---
 
-## 🛠 Tools  
-Explore a variety of tools for OSINT, categorized by their use:  
-- **Browser Extensions**: Tools for online tracking and metadata extraction.  
-- **Social Media Tools**: Username checks, profile analysis, and metadata retrieval.  
-- **Web Recon Tools**: DNS analysis, archive retrieval, and web footprinting.  
+### 🧠 Core Philosophy
 
-Find detailed documentation in the [Tools](Tools/) folder.  
+This notebook emphasizes:
+- Correlation over assumption
+- Pattern recognition over isolated findings
+- Verification through multiple independent signals
+- Documentation and structured reasoning
 
+  
 ---
 
-## 🔍 Techniques  
-Learn OSINT techniques for different domains:  
-- **Social Media Recon**: Identify profiles, extract metadata, and analyze connections.  
-- **Image Analysis**: Use tools like ExifTool for metadata or reverse image searches.  
-- **Website Recon**: Techniques for website footprinting, subdomain enumeration, and data scraping.  
+### 📌 Scope
 
-Detailed guides are available in the [Techniques](Techniques/) folder.  
+This notebook focuses on analyzing publicly available information
+and identifying patterns through structured reasoning.
 
----
 
-## 📚 Resources  
-A curated list of helpful OSINT materials:  
-- **Books**: Must-reads for OSINT enthusiasts.  
-- **Websites**: Online tools and resources for further exploration.  
-- **Training Programs**: Learn OSINT through structured courses.  
-
-Check out the [Resources](Resources/) folder for more information.  
-
----
 
 
